@@ -1,0 +1,39 @@
+.v_player_container {
+  width: 100%;
+  height: 100%;
+}
+
+.u_progress_unloaded {
+  background-color: #c0b8b5 !important;
+}
+
+.u_progress_play {
+  background-color: red !important;
+}
+
+.u_rmc_progress_btn {
+  background-color: red !important;
+}
+
+.u_rmc_progress_bar_container.hover_effect:hover {
+  height: 8px !important;
+  transition: all 0.1s ease-in-out;
+}
+
+.u_time_current {
+  color: red !important;
+}
+
+.volume_bar {
+  height: 6px !important;
+}
+
+.volume_bar_track {
+  height: 6px !important;
+}
+
+.volume_bar_btn {
+  top: 0 !important;
+  width: 13px !important;
+  height: 13px !important;
+}
