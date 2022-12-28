@@ -1,7 +1,7 @@
 {
   "name": "Mabox",
   "description": "Mybox player를 사용하기 편하게 커스터마이징",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "content_scripts": [
     {
