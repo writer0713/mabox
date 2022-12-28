@@ -9,7 +9,7 @@
       "css": ["mabox.css"]
     }
   ],
-  "permissions": ["activeTab", "scripting"],
+  "permissions": [],
   "action": {
     "default_icon": {
       "16": "/images/mabox-16x16.png",
